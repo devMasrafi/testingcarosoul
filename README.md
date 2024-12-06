@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+this is used to send to client for their problem in order to solve the issue with there Hero carosoul.
+
 ```bash
 npm run dev
 # or
